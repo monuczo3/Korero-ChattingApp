@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435542716171",
+    "project_id": "korero-87fce",
+    "storage_bucket": "korero-87fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435542716171:android:165a4026297e82c3fd3c0e",
+        "android_client_info": {
+          "package_name": "com.monu.korero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435542716171-49elgouup5uogbb656uu02v63m8koal0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxPPfEXBUZCdykR-04Fslxhm_VeyvWcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435542716171-49elgouup5uogbb656uu02v63m8koal0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
